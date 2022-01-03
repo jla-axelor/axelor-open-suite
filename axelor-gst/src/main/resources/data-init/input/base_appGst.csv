@@ -1,0 +1,2 @@
+"name";"code";"description";"modules";"dependsOn"
+"GST";"gst";"GST App configuration";"axelor-gst";"base"

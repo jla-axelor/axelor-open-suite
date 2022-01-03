@@ -523,6 +523,7 @@
 
     <panel-mail name="mailsPanel">
       <mail-messages/>
+      <mail-followers/>
     </panel-mail>
   </form>
 
